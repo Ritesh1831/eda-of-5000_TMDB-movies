@@ -66,9 +66,6 @@ This project performs a detailed analysis and predictive modeling on movie reven
 eda-of-5000_TMDB-movies/
 │
 ├── TMDB5000analysis_prediction.ipynb # Main code notebook
-├── data/
-│ ├── tmdb_5000_movies.csv
-│ └── tmdb_5000_credits.csv
 ├── README.md
 ├── encoded_data.csv
 
